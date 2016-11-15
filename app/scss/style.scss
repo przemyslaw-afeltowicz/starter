@@ -1,34 +1,21 @@
-body {
-  overflow: hidden;
-}
+/*!
+ * Starterpack by veranoo
+ * Author: Przemysław Afeltowicz
+ **
+ * Bootstrap v4.0.0 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ **
+ * normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css
+*/
+
+@import "vendor/bootsrap/bootstrap";
+
+@import "components/preloader";
+
+@import "sections/homepage";
 
 
-/* Preloader */
 
-#preloader {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #fff;
-  /* change if the mask should have another color then white */
-  z-index: 99;
-  /* makes sure it stays on top */
-}
 
-#status {
-  width: 200px;
-  height: 200px;
-  position: absolute;
-  left: 50%;
-  /* centers the loading animation horizontally one the screen */
-  top: 50%;
-  /* centers the loading animation vertically one the screen */
-  background-image: url(https://raw.githubusercontent.com/niklausgerber/PreLoadMe/master/img/status.gif);
-  /* path to your loading animation */
-  background-repeat: no-repeat;
-  background-position: center;
-  margin: -100px 0 0 -100px;
-  /* is width and height divided by two */
-}
+

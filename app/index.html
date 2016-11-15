@@ -7,9 +7,8 @@
     <link rel="shortcut icon" href="images/favicon.png">
     <title>StarterPack</title>
     <!-- bower:css -->
-    <link rel="stylesheet" href="libs/bootstrap/dist/css/bootstrap.min.css" />
     <!-- endbower -->
-    <link rel="stylesheet" href="css/main.css" type="text/css"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css"/>
 </head>
 <body>
 
@@ -18,26 +17,18 @@
 
 <!-- Preloader -->
 <div id="preloader">
-    <div>Loading</div>
+    <div id="loading">Trwa ładowanie...</div>
 </div>
 
-<!--<img width="100%" src='http://wallpapercave.com/wp/UoQbFHi.jpg' />-->
-<!--<div class="fb-page" data-href="https://www.facebook.com/procomppl/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/procomppl/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/procomppl/">pro-comp.pl</a></blockquote></div>-->
 
 <!-- bower:js -->
 <script src="libs/jquery/dist/jquery.js"></script>
-<script src="libs/tether/dist/js/tether.js"></script>
-<script src="libs/bootstrap/dist/js/bootstrap.min.js"></script>
 <!-- endbower -->
 <script type="text/javascript" src="js/main.js"></script>
 
 
 <script>
-    $(window).on('load', function () { // makes sure the whole site is loaded
-        $('#status').fadeOut(); // will first fade out the loading animation
-        $('#preloader').delay(350).fadeOut('slow'); // will fade out the white DIV that covers the website.
-        $('body').delay(100).css({'overflow': 'visible'});
-    })
+
 </script>
 
 </body>
