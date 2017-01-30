@@ -2,117 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf3eb674-124f-428b-9858-5c2105d97039" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_transforms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_display.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_flex.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_spacing.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/folio_node_modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_tags.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/bootstrap-flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_progress.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_reset-filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_tab-focus.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_align.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_display.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_flex.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_float.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_spacing.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/.scss-lint.yml" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/.scss-lint.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_alert.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_alert.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_animation.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_transitions.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_breadcrumb.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_breadcrumb.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_button-group.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_button-group.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_buttons.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_card.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_card.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_close.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_close.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_code.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_code.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_custom-forms.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_custom-forms.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_custom.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_custom.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_dropdown.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_dropdown.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_forms.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_forms.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_grid.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_grid.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_images.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_images.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_input-group.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_input-group.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_jumbotron.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_jumbotron.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_list-group.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_list-group.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_mixins.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_mixins.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_modal.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_modal.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_normalize.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_normalize.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_pagination.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_pagination.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_popover.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_popover.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_print.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_print.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_reboot.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_reboot.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_responsive-embed.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_responsive-embed.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_tables.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_tables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_tooltip.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_tooltip.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_type.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_type.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_utilities.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_utilities.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/_variables.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/_variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/bootstrap-grid.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/bootstrap-grid.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/bootstrap-reboot.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/bootstrap-reboot.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/bootstrap.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/bootstrap.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_alert.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_alert.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_background-variant.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_border-radius.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_breakpoints.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_breakpoints.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_cards.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_cards.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_clearfix.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_float.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_float.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_forms.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_forms.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_gradients.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_grid-framework.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_grid.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_grid.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_hover.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_hover.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_image.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_image.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_list-group.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_lists.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_lists.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_nav-divider.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_navbar-align.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_navbar-align.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_pagination.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_reset-text.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_resize.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_resize.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_screen-reader.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_screen-reader.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_size.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_size.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_table-row.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_tag.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_badge.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_text-emphasis.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_text-hide.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_text-hide.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/mixins/_text-truncate.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/mixins/_text-truncate.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_background.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_background.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_borders.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_borders.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_clearfix.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_clearfix.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_screenreaders.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_screenreaders.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_text.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_text.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/scss/vendor/bootsrap/utilities/_visibility.scss" afterPath="$PROJECT_DIR$/app/scss/vendor/bootstrap/utilities/_visibility.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/folio.iml" afterPath="$PROJECT_DIR$/.idea/folio.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/js/main.js" afterPath="$PROJECT_DIR$/app/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scss/style.scss" afterPath="$PROJECT_DIR$/app/scss/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="folio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -133,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state relative-caret-position="162">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -191,6 +91,7 @@
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/js/main.js" />
         <option value="$PROJECT_DIR$/app/scss/style.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -351,12 +252,12 @@
       <option name="presentableId" value="Default" />
       <updated>1479203110114</updated>
       <workItem from="1479203111680" duration="4243000" />
-      <workItem from="1485797767985" duration="748000" />
+      <workItem from="1485797767985" duration="897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4991000" />
+    <option name="totallyTimeSpent" value="5140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="188" width="1382" height="744" extended-state="6" />
@@ -502,8 +403,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="65" lean-forward="true" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state relative-caret-position="162">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
           <folding />
         </state>
       </provider>
