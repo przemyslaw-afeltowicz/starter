@@ -7,22 +7,12 @@
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nbayramov/starterpack.git"
-  },
-  "author": "",
+  "author": "veranoo",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/przemyslaw-afeltowicz/starter/issues"
-  },
   "homepage": "https://github.com/przemyslaw-afeltowicz/starter#readme",
   "devDependencies": {
-    "bower": "^1.7.9",
     "browser-sync": "^2.17.3",
     "gulp": "^3.9.1",
-    "gulp-bower": "0.0.13",
-    "gulp-sass": "^2.3.2",
-    "wiredep": "^4.0.0"
+    "gulp-sass": "^2.3.2"
   }
 }
