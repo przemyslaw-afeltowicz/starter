@@ -1,8 +1,8 @@
-var gulp        = require('gulp'),
+var gulp = require('gulp'),
     browserSync = require('browser-sync').create(),
-    sass        = require('gulp-sass');
+    sass = require('gulp-sass');
 
-gulp.task('browser-sync', ['sass'], function() {
+gulp.task('browser-sync', ['sass'], function () {
     browserSync.init({
         server: "./app",
         notify: false,
@@ -14,14 +14,14 @@ gulp.task('browser-sync', ['sass'], function() {
 });
 
 
-gulp.task('sass', function() {
+gulp.task('sass', function () {
     return gulp.src("app/scss/*.scss")
         .pipe(sass({outputStyle: 'compressed'}).on('error', sass.logError))
         .pipe(gulp.dest("app/css"))
         .pipe(browserSync.stream());
 });
 
-gulp.task('watch', ['browser-sync'], function(){
+gulp.task('watch', ['browser-sync'], function () {
     gulp.watch("app/scss/**/*.scss", ['sass']);
     gulp.watch("app/js/*.js").on('change', browserSync.reload);
     gulp.watch("app/*.html").on('change', browserSync.reload);
